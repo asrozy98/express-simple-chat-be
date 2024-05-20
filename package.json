@@ -1,0 +1,17 @@
+{
+  "name": "simple-chat-be",
+  "version": "0.0.1",
+  "description": "simple chat server with socket.io",
+  "main": "index.js",
+  "author": "M Faisal Asrozy",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
